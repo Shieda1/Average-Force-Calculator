@@ -1,3 +1,5 @@
+// https://calculator.swiftutors.com/average-force-calculator.html
+
 const v1 =  document.getElementById('v1');
 const v2 = document.getElementById('v2');
 const v3 = document.getElementById('v3');
